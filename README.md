@@ -9,6 +9,4 @@ Data exploration, preprocessing, and visualization
 
 Model evaluation using accuracy, confusion matrix, and classification reports
 
-Visualization of feature importance to interpret model predictions
-
 This project is ideal for beginners to understand tree-based algorithms and how they handle multiclass classification problems.
